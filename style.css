@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 255, 208);    
+}
+
+.topo, .sobre, .produto, .contato{    
+    text-align: center;
+    width: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    padding: 10px 0px;
+}
+
+.topo{
+    border-bottom: 1px solid #de8e37;    
+}
+.topo img{
+    width: 200px;
+}
+.topo a{
+    margin: 0 10px;
+    color: rgb(21, 20, 20); 
+}
+
+
+
+.sobre h1{
+    font-size: 28px;;
+}
+.sobre h2{ 
+    font-weight: normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+.sobre img{
+    width: 700px;
+}
+
+
+.produto{
+    color: white;
+    background-color: #de8e37;
+}
+.produto img{
+    width: 400px;
+}
+.produto p{
+    padding: 5px 70px;    
+    line-height: 30px;
+}
+
+.contato span{
+    font-weight: bolder;
+}
